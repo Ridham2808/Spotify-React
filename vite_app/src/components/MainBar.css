@@ -1,0 +1,105 @@
+body {
+  background-color: #202020;
+}
+
+.main {
+  margin-top: -750px;
+}
+
+.arrow {
+  height: 36px;
+  width: 85px;
+  padding-left: 300px;
+}
+
+.profile {
+  height: 37px;
+  margin-left: 997px;
+}
+
+.greeting {
+  color: white;
+  padding-left: 305px;
+  margin-top: 25px;
+  font-size: 25px;
+}
+
+.boxes {
+  color: white;
+  display: flex;
+  margin-left: 275px;
+}
+
+.box1, .box2, .box3, .box4 {
+  margin: 23px 0px 0px 30px;
+  width: 370px;
+  height: 90px;
+  background-color: rgb(71, 70, 70);
+}
+
+.box2 img, .box3 img, .box4 img {
+  height: 90px;
+}
+
+.boxes .box1 .photo2 {
+  margin-bottom: 30px;
+  margin-left: -65px;
+}
+
+.box5 {
+  margin: 32px 0px 0px 303px;
+  width: 285px;
+  height: 90px;
+  background-color: rgb(71, 70, 70);
+}
+
+.box5 img {
+  width: 32%;
+  height: 99%;
+  object-fit: cover;
+}
+
+.box1 p, .box2 p, .box3 p, .box4 p, .box5 p {
+  color: white;
+  padding-left: 160px;
+  margin: -58px;
+}
+
+.content2 {
+  color: white;
+  padding-left: 305px;
+  margin-top: 25px;
+  font-size: 25px;
+}
+
+.see {
+  color: white;
+  padding-left: 1460px;
+  margin-top: -19px;
+  font-size: 15px;
+}
+
+.ri {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(185px, 6fr));
+  position: relative;
+  left: 310px;
+  top: 26px;
+}
+
+.main_boxes {
+  border: 1px solid white;
+  width: 150px;
+  height: 200px;
+}
+
+.main_boxes img {
+  margin: 12px;
+  width: 126px;
+  height: 125px;
+}
+
+.ri p {
+  color: white;
+  margin-left: 10px;
+}

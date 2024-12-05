@@ -1,0 +1,60 @@
+.footer{
+    border: 2px solid black;
+    display: flex;
+    background-color: black;
+    flex-direction: row;
+    margin-top: 100px;
+  }
+  
+  .footer-2{
+    display: flex;
+  }
+  
+  .DremingOn{
+    margin-top: 20px;
+    color: whitesmoke;
+    margin-left: 20px;
+  }
+  
+  .nef{
+    margin-top: 40px;
+    margin-left: -60px;
+    color: whitesmoke;
+    font-size: 10px;
+    color: gray;
+  }
+  
+  .img11{
+    height: 75px;
+  }
+  
+  .heart2{
+    height: 20px;
+    margin-top: 30px;
+    margin-left: 40px;
+  }
+  
+  .music{
+    height: 60px;
+    width: 550px;
+    margin-left: 291px;
+  }
+  
+  .right{
+    width: 280px;
+    height: 33px;
+    margin-left: 150px;
+    margin-top: 20px;
+  }
+  
+  .green{
+    background-color: #1ed760;
+    height:20px;
+    width: 1540px;
+  }
+  
+  .listen{
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 1250px;
+  }
